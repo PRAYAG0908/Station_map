@@ -13,6 +13,7 @@ button{
 button:hover{
     background:linear-gradient(90deg,orange,red);
     color: white;
+    box-shadow: 0 0 12px 0.5px grey;
 }
 
 .disp{

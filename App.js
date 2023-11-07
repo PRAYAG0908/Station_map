@@ -43,7 +43,6 @@ class ImageToggle extends Component {
         <button onClick={() => this.handleButtonClick('Kurla')}>Kurla</button>
         <button onClick={() => this.handleButtonClick('Thane')}>Thane</button>
         </div>
-        <h1>COLOR</h1>
         <br></br>
         <div className='disp'>
         {selectedColor && (

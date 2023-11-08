@@ -16,9 +16,8 @@ button:hover{
     box-shadow: 0 0 12px 0.5px grey;
 }
 
-.disp{
-    display: flex;
-    justify-content: center;
+.Desc{
+    font-size: 34px;
 }
 
 /* h1{
@@ -27,3 +26,30 @@ button:hover{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 } */
+
+.tabbr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: large;
+}
+
+.flex{
+    display: flex;
+}
+.ord{
+    order: 2;
+}
+#green{
+    color: rgb(7, 246, 7);
+}
+
+#light-green{
+    color: rgb(150, 246, 6);
+}
+
+#yellow{
+    color:rgb(232, 232, 20);
+}
+#dark-yellow{
+    color:rgb(154, 154, 7);
+}
